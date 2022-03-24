@@ -8,6 +8,4 @@
 # O guia estelar de HTML
 - Instalando o plugin HTML Preview
 CTRL + SHIFT + P => DIGITE HTML:OPEN PREVIW
-=======
-# RocketSeat Discover-Trilha Fundamentar
 
